@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+.head{
+    text-align: center;
+    margin: 10% auto 3% auto;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    
+}
+h3{
+    font-weight: lighter;
+}
+.brand{
+    font-family: 'Sacramento', 'cursive';
+    font-size: 3.5rem;
+}
+.login{
+    margin: 3% auto 3% auto;
+    width: 30%;
+    text-align: center;
+    
+    justify-content: center;
+   
+}
+input{
+    display: block;
+    margin: 10px 0px;
+    padding: 10px;
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    border-radius: 5px;
+    border-style: none;
+    background-color:#f6f7fa ;
+    
+}
+input:active{
+    border-style: none;
+}
+.footer{
+    display: block;
+    text-align: center;
+    margin: 10px auto 0px auto;
+    bottom: 0px;
+}
+.btn-custom{
+    margin-top: 20px;
+    background-color: #4834d4;
+    color: #ffffff;
+}
+.img_logo{
+    height: 2rem;
+    width: 2rem;
+    transform: rotate(40deg);
+    position:absolute;
+   
+}
+P{
+    color: gray;
+}
